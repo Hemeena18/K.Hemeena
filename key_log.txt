@@ -1,0 +1,1 @@
+'w''i''n''d''o''e'Key.backspace'w''s'Key.space'u''p''d''a''t''e'Key.enter'o''k'Key.space'm''a'Key.enter'l'Key.backspace'l''o''g''i''n'Key.space'a''a''k''i''r'Key.backspace't''u'Key.space'm''a'Key.spaceKey.enter'w''t'Key.space'm''a'Key.enterKey.ctrl_l'c''t''r''l'Key.space'v'Key.spaceKey.enter
